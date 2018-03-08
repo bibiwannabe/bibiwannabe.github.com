@@ -1,0 +1,152 @@
+body{
+    background-color: #f0f0f0;
+    padding: 0;
+    margin: 0;
+    font-family: 微软雅黑;
+}
+a{
+    color: #235286;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0;
+}
+li{
+    margin-left: 0;
+    padding-top: 6px;
+}
+p{
+    color: #235286;
+    font-size: 14px;
+    line-height: 22px;
+    margin: 12px;
+}
+p.large{
+    font-size: large;
+    float: left;
+}
+span{
+    font-size: small;
+}
+div.square{
+    width:14px;
+    height:14px;
+    background-color:#9dc3e6 ;
+    border-width: 4px;
+    border: solid #9dc3e6;
+    border-radius: 4px;
+}
+.shortLine{
+    width: 660px;
+    height: 1.5px;
+    background-color:#9dc3e6;
+}
+.circle{
+     width:6px;
+    height:6px;
+    background-color:#9dc3e6 ;
+    border-width: 5px;
+    border: solid #9dc3e6;
+    border-radius: 6px;
+    float: left;
+}
+div#middle{
+    width: 800px;
+    height: 1130px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top:20px;
+}
+div#info{
+    height:auto;
+    color: #235286;
+}
+#name{
+    font-size: 30px;
+    font-weight:bold;
+}
+#line{
+    width: 800px;
+    height: 2px;
+    background-color:#9dc3e6;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#otherInfo{
+    height: auto;
+    position: relative;
+}
+#left{
+    width: 800px;
+    #float: left;
+    margin-top: 10px;
+    position: absolute;
+
+}
+#tech{
+    height: 100px;
+}
+#sq1{
+    margin-top: 12px;
+    margin-left: 5px;
+    float: left;
+}
+#shortLine1{
+    margin-top: 20px;
+    float: left;
+}
+#tech_right{
+    float: left;
+}
+#skill{
+    height: 130px;
+    margin-left: auto;
+    float: left;
+}
+#sq2{
+    margin-top: 12px;
+    margin-left: 21px;
+    float: left;
+}
+#shortLine2{
+    margin-top: 20px;
+    float: left;
+}
+#skill_right{
+    float: left;
+    margin-left: 136px;
+}
+
+#project{
+    height: auto;
+}
+#sq3{
+    margin-top: 12px;
+    margin-left: 21px;
+    float: left;
+}
+#shortLine3{
+    margin-top: 20px;
+    float: left;
+}
+#pro_right{
+    margin-top: 10px;
+    height: auto;
+    float: left;
+}
+
+#hline{
+    width: 1.5px;
+    height: 800px;
+    background-color:#9dc3e6;
+    margin-top: 22px;
+    margin-left: 125px;
+    position: absolute;
+}
+
+
